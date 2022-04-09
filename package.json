@@ -44,7 +44,7 @@
     "kratos": "^2.3.3",
     "level-session-store": "^2.2.0",
     "marked": "^1.1.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2",
     "node-emoji": "^1.10.0",
     "node-gyp": "^7.0.0",
